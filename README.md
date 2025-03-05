@@ -6,7 +6,7 @@ This project focuses on clustering unlabeled sound data using dimensionality red
 
 ## Assignment
 
-Complete the tasks in the notebook and document your observations in markdown cells.
+The Assignment was to complete the tasks in the notebook and document your observations in markdown cells.
 
 ## Libraries Used
 
